@@ -7,11 +7,11 @@
 
 
 # Site Settings
-title                    : Your Name
-name                     : Your Name
+title                    : Sebastian C. Creane-Herrera
+name                     : Sebastian C. Creane-Herrera
 # One line about you. It appears under your name on the home page, and it is
 # what search engines and messaging apps show when someone shares your link.
-description              : "Mechanical engineering student at Cornell. [What you like working on.]"
+description              : "Biomedical engineering student at Cornell. I enjoy prosthetics work"
 
 # Theme and Style
 theme: jekyll-theme-minimal
