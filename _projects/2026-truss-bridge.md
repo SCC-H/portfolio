@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Truss Bridge
-description: Truss design for a pedestrian bridge across Itacha gorge.
+description: Truss design for a pedestrian bridge across Ithaca gorge.
 technologies:
   - Autodesk Fusion
 featured: false   # change to true to always show this project on your home page

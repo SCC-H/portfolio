@@ -11,14 +11,14 @@ permalink: /cv/
 ---
 
 ## Objective
-One or two sentences: what you are studying, and what you are looking for next.
+One or two sentences: I am studying biomedical and electrical engineering.
 
 ---
 
 ## Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  Graduation: Month, Year
+  *Bachelor of Science in Biomedical and Electrical & Computer Engineering*  
+  Graduation: May, 2030
 
 ---
 
@@ -30,8 +30,8 @@ One or two sentences: what you are studying, and what you are looking for next.
 ---
 
 ## Projects
-- **Project title**:  
-  *One line about what it was*  
+- **Truss Bridge**:  
+  *I designed a truss for a theoretical pedestrian bridge*  
   - What you did  
   - What came of it  
 
