@@ -7,7 +7,7 @@ technologies:
 featured: false   # change to true to always show this project on your home page
 image: /assets/images/rough-draft.jpeg
 imagealt: First draft of truss setup
----
+
 
 image: /assets/images/brainstorm.png
 imagealt: Started by looking into and sketching different bridge designs before settling on warren bridge as it was widley considered on of the better simple truss designs
@@ -34,6 +34,6 @@ imagealt: Calculated the mass based on the hollow cylinder princple mentioned ea
 image: /assets/images/final.png
 imagealt: Final design with measurement specifications.
 
-
+---
 
 
