@@ -1,4 +1,3 @@
-
 ---
 layout: project
 title: Truss Bridge
